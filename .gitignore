@@ -1,0 +1,8 @@
+# CLAUDE and AGENTS
+.agents/
+.claude/
+CLAUDE.md
+AGENTS.md
+docs/agents/
+skills-lock.json
+tmp/
